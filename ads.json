@@ -1,5 +1,5 @@
 {
-    "ads_active": 1,
+    "ads_active": 2,
     "ads_click":2,
     "show_nativeads": 4,
     "onesignalappid": "dc78b7c8-6122-43f3-b04e-18345b46fc2d",
@@ -32,12 +32,12 @@
     "IosBiddingRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
     "IosBiddingNative": "ca-app-pub-3940256099942544/2247696110",
 
-    "FBBanner": "ca-app-pub-3940256099942544/6300978111",
-    "FBInterstitial": "ca-app-pub-3940256099942544/1033173712",
-    "FBInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
-    "FBRewarded": "ca-app-pub-3940256099942544/5224354917",
-    "FBRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
-    "FbNative": "ca-app-pub-3940256099942544/2247696110",
+    "FBBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "FBInterstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "FBInterstitial_Video": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "FBRewarded": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "FBRewarded_Interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "FbNative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 
     "FBIosBanner": "ca-app-pub-3940256099942544/6300978111",
     "FBIosInterstitial": "ca-app-pub-3940256099942544/1033173712",
